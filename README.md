@@ -1,6 +1,6 @@
 # MongoDB to MySQL Migration Script
 
-This Python script migrates data from a MongoDB database to a MySQL database. It iterates over all collections in the MongoDB database, creates corresponding tables in the MySQL database, and inserts the data.
+This Python script facilitates the migration of data from a MongoDB database to a MySQL database. It systematically traverses through all collections within the MongoDB database, establishes equivalent tables within the MySQL database, and then proceeds to insert the data seamlessly.
 
 ## Prerequisites
 
